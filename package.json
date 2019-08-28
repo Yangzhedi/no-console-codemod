@@ -1,0 +1,21 @@
+{
+  "name": "no-console-codemod",
+  "version": "0.0.1",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yangzhedi/no-console-codemod"
+  },
+  "bugs": {
+    "url": "https://github.com/Yangzhedi/no-console-codemod/issues"
+  },
+  "description": "A codemod use with JSCodeshift which help you delete console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/Yangzhedi",
+  "license": "ISC"
+}
